@@ -1,6 +1,8 @@
 # Samsung-Motionphoto-Deletion
 
 ## Description
+This is a script I wrote long time ago, I uploaded it here for other people's use.
+
 Samsung motionphoto is similar to apple's live photo.
 But it stores all the motion part inside the jpg file.
 JPG file ends with hex FFD9, so this program finds such HEX and delete the rest of the file contents.

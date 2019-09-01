@@ -7,12 +7,12 @@ JPG file ends with hex FFD9, so this program finds such HEX and delete the rest 
 
 Samsung's own Gallery app can extract the motion photo as gif, and this is the feature to be added.
 
-##Feature
+## Feature
 Though Samsung's own Gallery app can delete the motion photo part of the jpg file, but it can only be executed one at a time with multiple taps.
 
 This python script is a batch process.
 
-##Warning
+## Warning
 **The most important warnings are listed below**
 
 **1. The script will read all the files in the fold denoted by the path that user entered, but it

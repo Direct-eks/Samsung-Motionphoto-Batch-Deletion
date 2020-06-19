@@ -1,6 +1,5 @@
 from multiprocessing import Process
-from process_thread import folder_process
-import io
+from CLI.process_thread import folder_process
 import re
 
 if __name__ == '__main__':
